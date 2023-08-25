@@ -1,0 +1,30 @@
+.floating-cart {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    bottom: 50px;
+}
+
+.floating-cart .btn {
+    padding: 10px 15px;
+}
+
+.container{
+    margin-top: 15px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+h5{
+    font-size: 1rem;
+}
+.col-6{
+padding-right: 0px;
+padding-left: 0px;
+}
+.quantity-block{
+    display: flex;
+}
+.space{
+    height: 100px;
+}
